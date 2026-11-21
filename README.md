@@ -1,5 +1,9 @@
 # 📄 Help Me With the Paperwork
 
+> **상태: 설계 단계** · 아이디어와 실험 설계만 있고, 아직 실행한 실험이나 결과는 없다.
+>
+> **Status: design stage** · Ideas and experiment design only. No experiments have been run yet, so there are no results.
+
 > An open-source AI assistant that helps immigrants understand bureaucratic documents — through the messaging apps they already use.
 
 ---
